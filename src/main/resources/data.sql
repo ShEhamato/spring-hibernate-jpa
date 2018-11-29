@@ -1,0 +1,1 @@
+insert into item (id, item_name , item_code) values(1, 'phone', '2HH2JJJ');
